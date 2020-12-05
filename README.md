@@ -17,7 +17,8 @@ Using overall accuacy as my metric 0.76 was the score of my model using 5 epochs
 >![](image_findings/worst_best_cover.jpg)
 ![](image_findings/worst_cover.jpg)
 
-	My model predicted these two images as non-best sellers with the highest certaintly. The second IS a best seller.
+	My model predicted these two images as non-best sellers with the highest certaintly.
+	The second IS a best seller.
 
 >![](image_findings/Best_Non1.jpg)
 ![](image_findings/Best_Non2.jpg)
@@ -28,12 +29,14 @@ Using overall accuacy as my metric 0.76 was the score of my model using 5 epochs
 >![](image_findings/Uncertain.jpg)
 ![](image_findings/algorithm_most_uncertain.jpg)
 
-    These two books had my model stumped with the lowest certainty each (~0.5 score). They are both best sellers.
+    These two books had my model stumped with the lowest certainty each (~0.5 score).
+    They are both best sellers.
 
 >![](image_findings/best_residuals.png)
 >![](image_findings/non_residuals.png)
 
-    The residual plots the highest certainty best seller compaired with the a high certainty non-best seller. 
+    The residual plots the highest certainty best seller compaired
+    with the a high certainty non-best seller. 
 
 >![](image_findings/non_from_best_authors.png)
 >![](graphs/Most_Published_Authors.png)
