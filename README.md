@@ -1,4 +1,7 @@
 # How to Judge a Book by it's Cover
+
+[Amazing Youtube Project Overview!](https://youtu.be/tJtXw1NoL1I)
+
 [Amazing Slideshow!](https://docs.google.com/presentation/d/1dBOCxwwQhlkWENBlZSQ7UV_Y1bZGVbXeL5g2gCk_074/edit?usp=sharing)
 
 As everyone knows it's impossible for a human to judge a book by its cover properly but when it comes to neural networks, they miraculously find a way. My hypothesis a neural network would be able to predict if a book cover was an NYT bestseller (2008-2018) with prediction accuracy over 0.5. 
@@ -43,8 +46,8 @@ Using overall accuracy as my metric 0.76 was the score of my model using 5 epoch
 >![](image_findings/non_from_best_authors.png)
 >![](graphs/Most_Published_Authors.png)
 
-    If I were to be magically unblocked from querying google's API, 
-    I would attempt to understand if my model learns to overfit based on the best seller's cover styles. 
+    If I were to be magically unblocked from querying google's API, I would attempt to 
+    understand if my model learns to overfit based on the best seller's cover styles. 
 
 
 I hope to deploy this interactive upload to my website [lynxrose.com](lynxrose.com) soon.
